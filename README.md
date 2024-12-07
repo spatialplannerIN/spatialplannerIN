@@ -2,7 +2,7 @@
 - 👀 I’m interested in Geospatial data 
 - 🌱 I’m currently learning working through spectral imagery 
 - 💞️ I’m looking to collaborate on remote sensing and climate risk
-- 📫 How to reach me rushigastgar@gmail.com
+- 📫 How to reach me rushigastgar10@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: 1 Month into Coding 
 
